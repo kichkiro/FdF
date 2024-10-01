@@ -88,7 +88,7 @@ This topic covers the fundamental principles and techniques for the graphical re
 
 It explores the projection of 3D points onto a two-dimensional plane through complex mathematical models, alongside the management of user interactions, such as zooming and rotating, and the creation of efficient graphical interfaces.
 
-### 3D Wireframe Modeling
+### 3D Wireframe
 This specific area of computer graphics focuses on the representation of three-dimensional objects using lines that connect points in space. Wireframe models are an essential technique for rendering complex shapes with computational efficiency. 
 
 In this project, concepts such as isometric projection, structured map interpretation, and the visualization of 3D landscapes using spatial data are examined.

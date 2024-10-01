@@ -1,5 +1,4 @@
-![Banner](https://github.com/kichkiro/42_cursus/blob/assets/banner_fdf.jpg?raw=true)
-
+<img src="https://github.com/kichkiro/42_cursus/blob/assets/banner_fdf.jpg?raw=true" width="100%"/>
 
 # FDF
 

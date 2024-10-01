@@ -22,6 +22,8 @@
 
 ```js
 ├── README.md
+├── LICENSE
+├── Dockerfile
 ├── project
 │   ├── Makefile
 │   ├── include

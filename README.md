@@ -1,4 +1,5 @@
-<img src="https://github.com/kichkiro/42_cursus/blob/assets/banner_fdf.png?raw=true" width="100%"/>
+![Banner](https://github.com/kichkiro/42_cursus/blob/assets/banner_fdf.jpg?raw=true)
+
 
 # FDF
 
@@ -16,7 +17,8 @@
 
 #### <i>[subject](_subject/en.subject.pdf) v.2</i>
 
-## 🌳 - Project Tree 
+<details>
+<summary><i><b>Project Structure  📂</b></i></summary>
 
 ```js
 ├── README.md
@@ -76,15 +78,29 @@
     ├── minilibx_mms_20191025_beta.tgz
     └── sources.tgz
 ```
+</details>
 
-## 🛠️ - How to use? 
+## 📌 - Key Topics
+### Computer Graphics
+This topic covers the fundamental principles and techniques for the graphical representation of objects, including the generation of three-dimensional landscapes using algorithms and libraries such as MiniLibX. 
+
+It explores the projection of 3D points onto a two-dimensional plane through complex mathematical models, alongside the management of user interactions, such as zooming and rotating, and the creation of efficient graphical interfaces.
+
+### 3D Wireframe Modeling
+This specific area of computer graphics focuses on the representation of three-dimensional objects using lines that connect points in space. Wireframe models are an essential technique for rendering complex shapes with computational efficiency. 
+
+In this project, concepts such as isometric projection, structured map interpretation, and the visualization of 3D landscapes using spatial data are examined.
+
+## 🛠️ - Usage 
 
 ```sh
 git clone https://github.com/kichkiro/FdF.git
-cd FdF/project/
-make
+cd FdF/
+docker build -t fdf:42 .
+docker run -d --name fdf fdf:42
 ```
+--- TODO ---
 
 ## ⚖️ - License
 
-See [LICENSE](https://github.com/kichkiro/42_cursus/blob/main/LICENSE)
+See [LICENSE](LICENSE)

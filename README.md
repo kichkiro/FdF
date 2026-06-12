@@ -1,4 +1,4 @@
-<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banner_fdf.jpg?raw=true" width="100%"/>
+<img src="https://github.com/kichkiro/kichkiro/blob/main/assets/banners/banner_fdf.jpg?raw=true" width="100%"/>
 
 # FDF
 
